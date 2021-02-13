@@ -20,7 +20,7 @@ Get the Tilt Brush open-source application running on your own devices.
 
 ### Prerequisites
 
-*   [Unity 2018.4.11f1](unityhub://2018.4.11f1/7098af2f11ea)
+*   [Unity 2018.4.11f1](unityhub://2018.4.11f1/7098af2f11ea) (Ahora es [Unity 2018.4.29f1](unityhub://2018.4.29f1/7098af2f11ea))
 *   [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
 *   [Python 2.7.0](https://www.python.org/download/releases/2.7/) (Optional —
     needed only if you wish to run the scripts in the `Support/bin` directory)
